@@ -113,7 +113,6 @@ Image of phone with SELinux/SEandroid on.
 We have a started an effort to write a brand new policy for the Atomic platform.
 We are thinking of setting up a greatly simplified policy with few types and just isolate processes on the system running as say `systemd_t`.  Then have processes running in side of container running as container_t.
 
-https://wiki.brq.redhat.com/SecurityTechnologies/AdvancedContainersHostingPlatformsIsolation
 
 ## SELinux is critical for container separation
 
